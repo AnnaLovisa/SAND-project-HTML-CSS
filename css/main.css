@@ -2,13 +2,13 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400");
 @font-face {
   font-family: "bebasneue";
-  src: url(../fonts/bebasneue.otf); }
+  src: url(../Fonts/bebasneue.otf); }
 @font-face {
   font-family: "Montserrat Light";
   src: url(../fonts/Montserrat-Light.otf); }
 @font-face {
   font-family: "Montserrat Regular";
-  src: url(../fonts/Montserrat-Regular.otf); }
+  src: url(../Fonts/Montserrat-Regular.otf); }
 body {
   margin: 0;
   padding: 0;
@@ -138,7 +138,7 @@ nav {
 .ul-navigation a {
   padding: 1rem;
   padding-right: 0 !important;
-  /* important skriver över media queries */
+  /* important skriver ├Âver media queries */
   font-weight: bold;
   color: white;
   cursor: pointer;
@@ -165,7 +165,7 @@ nav {
     opacity: 1; }
   100% {
     opacity: 1; } }
-/*alla förutom första bilden i headern*/
+/*alla f├Ârutom f├Ârsta bilden i headern*/
 header img:nth-child(-n+4) {
   animation: FadeInOut 28s ease-in-out infinite normal; }
 
