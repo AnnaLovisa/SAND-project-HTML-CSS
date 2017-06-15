@@ -1,11 +1,11 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400");
 @font-face {
-  font-family: "bebasNeue";
-  src: url(../Fonts/bebasNeue.otf); }
+  font-family: "Bebas Neue";
+  src: url(../Fonts/bebasneue.otf); }
 @font-face {
   font-family: "Montserrat Light";
-  src: url(../Fonts/Montserrat-Light.otf); }
+  src: url(../fonts/Montserrat-Light.otf); }
 @font-face {
   font-family: "Montserrat Regular";
   src: url(../Fonts/Montserrat-Regular.otf); }
@@ -217,12 +217,12 @@ h2 {
   text-align: center;
   font-size: 2.500rem;
   letter-spacing: 0.125rem;
-  font-family: "bebasneue", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
   text-decoration: none;
   color: #000; }
 
 h3 {
-  font-family: "bebasneue";
+  font-family: "Bebas Neue";
   font-size: 1.500rem;
   letter-spacing: 0.125rem; }
 
