@@ -440,7 +440,7 @@ h6 {
   text-transform: uppercase; }
 
 .workers-text p:nth-of-type(1) {
-  font-family: "bebasneue";
+  font-family: "Bebas Neue";
   font-size: 1.5em;
   font-weight: bold;
   text-transform: uppercase;
@@ -475,7 +475,7 @@ h6 {
   background-size: contain; }
 
 h4 {
-  font-family: "bebasneue";
+  font-family: "Bebas Neue";
   font-size: 1.500rem;
   color: #000;
   letter-spacing: 0.125rem; }
